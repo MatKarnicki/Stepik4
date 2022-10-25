@@ -6,9 +6,9 @@
 >"Byłeś dziś w Piekarni?" - Dariusz Kalita
 
 1. Top3 Bułki
-	- 1\. Kajzerki
-	- 2\. Bułka Czosnkowa
-	- 3\. Bagietka
+	1. Kajzerki
+ 	2. Bułka Czosnkowa
+	3. Bagietka
 2. Najlepsze rzeczy w bułkach
 	- Smak
 	- Pasują do wszystkiego
