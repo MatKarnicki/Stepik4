@@ -23,4 +23,4 @@ print(result)
 Najlepsza funkcja na swiecie to `PieczenieBulki()'
 
 A to moj pies
-![Hej Sori](zdjecie/sori.jpg)
+![Hej Sori](./zdjecie/Sori.jpg)
