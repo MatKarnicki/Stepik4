@@ -1,8 +1,11 @@
 # Świeże Pieczywo NEWS
 
 *Codzienne wiadomości*
+
 **Najlepszy program o pieczywie**
+
 ~~Prowadzony przez Maćka~~
+
 >"Byłeś dziś w Piekarni?" - Dariusz Kalita
 
 1. Top3 Bułki
