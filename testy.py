@@ -7,7 +7,9 @@ def wiekszamniejszaod0(x):
         return 1
     else:
         return -1
-def test_answer():
+def test_answer1():
     assert wiekszamniejszaod0(2137)==1
+def test_answer2():
     assert dodawanie1(5)==6
+def test_answer3():
     assert mnozeniedwojki(3)==6
