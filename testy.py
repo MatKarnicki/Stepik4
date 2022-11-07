@@ -1,7 +1,7 @@
 def dodawanie1(x):
     return x+1
-def potegadwojki(x):
-    2**x
+def mnozeniedwojki(x):
+    2*x
 def wiekszamniejszaod0(x):
     if x > 0:
         return 1
@@ -10,4 +10,4 @@ def wiekszamniejszaod0(x):
 def test_answer():
     assert wiekszamniejszaod0(2137)==1
     assert dodawanie1(5)==6
-    assert potegadwojki(3)==4
+    assert potegadwojki(3)==6
