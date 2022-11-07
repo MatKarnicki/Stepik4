@@ -8,6 +8,6 @@ def wiekszamniejszaod0(x):
     else:
         return -1
 def test_answer():
-    assert potegadwojki(2)==4
     assert wiekszamniejszaod0(2137)==1
-    assert dodawanie1(5)==7
+    assert dodawanie1(5)==6
+    assert potegadwojki(3)==4
