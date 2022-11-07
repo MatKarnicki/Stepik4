@@ -1,7 +1,7 @@
 def dodawanie1(x):
     return x+1
 def mnozeniedwojki(x):
-    2*x
+    return 2*x
 def wiekszamniejszaod0(x):
     if x > 0:
         return 1
