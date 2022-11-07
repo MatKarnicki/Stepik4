@@ -10,4 +10,4 @@ def wiekszamniejszaod0(x):
 def test_answer():
     assert wiekszamniejszaod0(2137)==1
     assert dodawanie1(5)==6
-    assert potegadwojki(3)==6
+    assert mnozeniedwojki(3)==6
